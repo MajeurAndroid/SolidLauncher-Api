@@ -28,7 +28,7 @@ void changeIconPack(String packageName) {
 Solid launcher supports applications badge with notification count (such as unread email ..)
 To update badge count of your app first you need to declare permission :
 ```xml
-<uses-permission name="com.majeur.launcher.permission.UPDATE_BADGE" />
+<uses-permission android:name="com.majeur.launcher.permission.UPDATE_BADGE" />
 ```
 
 Then just send a broadcast when you want to update badge count, as following.
