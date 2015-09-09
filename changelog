@@ -1,6 +1,7 @@
 1.5.8-1:
     -Fixed forceclose in settings on Lollipop devices
     -Minor improvements
+    -Added changelog
 1.5.8
     -Customize item's icons
     -Icon packs are now unlocked
