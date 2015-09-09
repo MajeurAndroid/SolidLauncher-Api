@@ -1,0 +1,86 @@
+1.5.8-1:
+    -Fixed forceclose in settings on Lollipop devices
+    -Minor improvements
+1.5.8
+    -Customize item's icons
+    -Icon packs are now unlocked
+    -Design improvements
+    -Choose main pages (widgets and grids)
+    -Material design popups
+    -Better handle of setting changes
+    -Improved app drawer design
+    -Lot of stability optimizations
+    -Latest APIs
+1.5.7
+    -Added reveal app drawer
+    -Resigned apwwidget and shortcut providers
+    -Design improvmements
+    -Lollipop app transitions available
+1.5.6
+    -Added app animations
+    -Fixed lags caused by some widgets
+    -Improved circle reveal animation
+    -Memory optimizations
+1.5.5
+    -Memory improvement
+    -Added more details in settings
+    -Reworked widget provider
+    -Fixed crash on launch
+1.5.4
+    -Redesigned settings
+    -Fixed crash on Lollipop devices
+    -DashBoard widget: added units choice, optimizations
+1.5.3
+    -Reveal animation for popups
+    -Solid widget is now a native android AppWidget called "Dashboard"
+    -Shorter tutorial
+    -Bug fixes
+1.5.2
+    -All data structure has been rewritten, it's now more stable, consume far less battery, and is faster
+    -Default launcher setting
+    -Major bug fixes
+1.5.1
+    -Notifications indicators (Apps have to support Solid)
+    -Optimizations
+1.5.0
+    -Floating widgets
+    -Improve landscape grids layout
+    -Solid can now handle external appwidget deletion
+    -Fixed crash on launch on android lower than KitKat
+    -Fixed various bugs
+1.4.9
+    -Fixed crash on first launch
+    -Theme color (can auto-adapt to header background)
+    -Header show current played album art if set
+    -Drawer columns count
+    -Icon size (Drawer & Home)
+    -Grids customizable row columns count
+1.4.8
+    -Reworked design
+    -Reorder widgets
+    -Folder settings
+1.4.7
+    -Added hidden apps in drawer
+    -Improved home pages load time
+    -Fixed a memory leak
+1.4.6
+    -Actions and shortcuts in gestures
+1.4.5
+    -Gestures
+    -Minor ui fixes
+1.4.4
+    -Wallpaper scroll
+    -Minor fixes
+1.4.3
+    -Fixed widget compatibility
+    -App grid add menu (no more a dialog)
+    -Minor design fixes
+1.4.2
+    -Tutorial
+    -Bug fixes
+1.4.1
+    -New widget and shortcut picker
+    -Optimized launch time
+1.4.0
+    -Lot of optimizations
+    -Material Design
